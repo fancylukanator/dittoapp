@@ -14,3 +14,8 @@ Pick up your work right where you left off! Ditto saves your open tabs, document
 3) Close your workspace. At the end of the day get rid of the clutter and close your workspaces!
    
    ![Alt Text](https://media.giphy.com/media/QLkdSmbvb2rbMHemKu/giphy.gif)
+
+
+To download the app, click packages to your right and download the 'ditto.zip' file.
+
+Note: This repo only hosts the app package, to see source code head over to https://github.com/fancylukanator/workenvironment/tree/main
