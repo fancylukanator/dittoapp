@@ -16,6 +16,6 @@ Pick up your work right where you left off! Ditto saves your open tabs, document
    ![Alt Text](https://media.giphy.com/media/QLkdSmbvb2rbMHemKu/giphy.gif)
 
 
-To download the app, click packages to your right and download the 'ditto.zip' file.
+To download the app, click releases to your right, or click https://github.com/fancylukanator/dittoapp/releases and download the 'ditto.zip' file.
 
 Note: This repo only hosts the app package, to see source code head over to https://github.com/fancylukanator/workenvironment/tree/main
